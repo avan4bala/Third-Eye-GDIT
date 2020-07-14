@@ -1,6 +1,6 @@
 import boto3
 
-# with open('C:\\Users\\alexm\Documents\\DevSecOps\\faceIds.txt', 'r') as file:
+# with open('C:\\Users\\avanbala\Documents\\DevSecOps\\faceIds.txt', 'r') as file:
 #     IDs = []
 #     for line in file:
 #         IDs.append(line.rstrip('\n'))
@@ -41,7 +41,7 @@ def delete_faces_in_collection(collection_id):
 
 
 # def main():
-#     collection_id = 'Third_Eye_References'
+#     collection_id = 'Eye_References'
 #
 #     delete_faces_in_collection(collection_id)
 #
